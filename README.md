@@ -21,4 +21,4 @@ This is a work in progress. Contributions are welcome! You can contribute by mak
 
 ## Resources
 
-- Non yet
+- None yet
